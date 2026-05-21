@@ -71,9 +71,8 @@ My goal with this project is to build an intelligent, data-driven system that ca
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kritika-ghosh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-ghosh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
 <br>
 
 <div align="center">
