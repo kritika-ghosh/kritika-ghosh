@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kritika Ghosh</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Kritika%20Ghosh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<h3 align="center">A passionate AI/ML developer from India 🚀</h3>
 <p align="center">B.Tech CS (AI & ML) @ VIT Bhopal 🎓 | <b>9.4 GPA</b> 🌟</p>
 
 <p align="center">
@@ -26,7 +29,8 @@ My goal with this project is to build an intelligent, data-driven system that ca
 
 <h3 align="left">🔭 What I'm up to:</h3>
 
-- 🌱 **Interning:** Machine Learning Intern @ **InternSpark** - 👩‍💻 **Open Source:** Selected for the AI & Agents track in **GirlScript Summer of Code (GSSoC) 2026**
+- 🌱 **Interning:** Machine Learning Intern @ **InternSpark**
+- 👩‍💻 **Open Source:** Selected for the AI & Agents track in **GirlScript Summer of Code (GSSoC) 2026**
 - 📚 **Learning:** Pursuing the **IBM AI Engineering Professional Certificate**
 - 🛠️ **Building:** **Mochan** (a robotic hand using ESP32-C3) & a custom **DIY E-Reader** with an Arduino Uno
 - 🧠 **Developing:** **Digital Archivist**, a smart file sorting system for automated organization
@@ -60,6 +64,18 @@ My goal with this project is to build an intelligent, data-driven system that ca
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
 </p>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-ghosh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+</div>
