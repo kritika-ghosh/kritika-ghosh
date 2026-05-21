@@ -39,8 +39,8 @@ My goal with this project is to build an intelligent, data-driven system that ca
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="[https://linkedin.com/in/kritika-ghosh](https://www.linkedin.com/in/kritika-ghosh-171433313/)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="[https://devpost.com/kritika-ghosh](https://devpost.com/kri-kritika-ghosh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
+  <a href="https://www.linkedin.com/in/kritika-ghosh-171433313/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://devpost.com/kri-kritika-ghosh?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/></a>
 </p>
 
 <br>
